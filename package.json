@@ -1,0 +1,26 @@
+{
+  "name": "sourcemaps-problem",
+  "version": "1.0.0",
+  "description": "sourcemaps-problem ==================",
+  "main": "lib/something/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rogierschouten/sourcemaps-problem.git"
+  },
+  "author": "Rogier Schouten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rogierschouten/sourcemaps-problem/issues"
+  },
+  "homepage": "https://github.com/rogierschouten/sourcemaps-problem",
+  "dependencies": {
+    "event-stream": "^3.1.7",
+    "gulp": "^3.8.10",
+    "gulp-debug": "^1.0.1",
+    "gulp-sourcemaps": "^1.2.7",
+    "gulp-typescript": "^2.2.0"
+  }
+}
